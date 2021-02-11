@@ -1,0 +1,6 @@
+D:\C#\VS_Project\ConsoleApp1\BankyStuffLibrary\bin\Debug\BankyStuffLibrary.dll
+D:\C#\VS_Project\ConsoleApp1\BankyStuffLibrary\bin\Debug\BankyStuffLibrary.pdb
+D:\C#\VS_Project\ConsoleApp1\BankyStuffLibrary\obj\Debug\BankyStuffLibrary.csprojAssemblyReference.cache
+D:\C#\VS_Project\ConsoleApp1\BankyStuffLibrary\obj\Debug\BankyStuffLibrary.csproj.CoreCompileInputs.cache
+D:\C#\VS_Project\ConsoleApp1\BankyStuffLibrary\obj\Debug\BankyStuffLibrary.dll
+D:\C#\VS_Project\ConsoleApp1\BankyStuffLibrary\obj\Debug\BankyStuffLibrary.pdb
