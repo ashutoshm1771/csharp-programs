@@ -20,6 +20,7 @@ namespace C__Programs
                     int number; //  Stores the required number 
                     Int32.TryParse(name, out number); // number variable now stored the required input value from user
             */
+            
             Console.WriteLine("Your number is : " + a + " and "+b);
             Console.WriteLine("Sum = "+ (a+b) + " Difference = " + (a-b) + " Product = " + (a*b) + " Division = " + (a/b) + " Remainder = " + (a%b));
             Console.WriteLine("Is the first num divisible by the second num ? " + ( (a%b == 0)));
