@@ -13,6 +13,7 @@ namespace C__Programs
             double a,b;
             a = Convert.ToDouble( Console.ReadLine() );  
             b = Convert.ToDouble( Console.ReadLine() );  
+            
             /*
                 // Convert input ( by default, string) to double , using Convert.ToDouble
                 // Next way is this --> 
