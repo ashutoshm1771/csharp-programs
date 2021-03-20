@@ -12,6 +12,7 @@ namespace C__Programs
             int a,b;
             a = Convert.ToInt32( Console.ReadLine() );  
             b = Convert.ToInt32( Console.ReadLine() );  
+            
             /*
                 // Convert input ( by default, string) to int32 , using Convert.ToInt32
                 // Next way is this --> 
