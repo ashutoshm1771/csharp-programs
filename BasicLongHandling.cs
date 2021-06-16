@@ -24,7 +24,7 @@ namespace C__Programs
             
             Console.WriteLine("Your number is : " + a + " and "+b);
             Console.WriteLine("Sum = "+ (a+b) + " Difference = " + (a-b) + " Product = " + (a*b) + " Division = " + (a/b) + " Remainder = " + (a%b));
-            Console.WriteLine("Is the first num divisible by the second num ? " + ( (a%b == 0)));
+            Console.WriteLine("Is the first num divisible by the second num ? " + ( ( a%b == 0 )));
 
             long max = long.MaxValue , min = long.MinValue;
             Console.WriteLine(max + " " + min);
